@@ -2,6 +2,8 @@
 Experiment with giving visuals to audio. 
 Expand to full screen and turn your speakers up to hear and see the full effect!
 
+![audio-visualizer](https://user-images.githubusercontent.com/26418542/74289960-507fdc80-4ce5-11ea-8a17-db3f347dc7fc.gif)
+
 ## Live
 For the live version, go to [https://stephaniecherubin.github.io/CodeMusicxCodeArt](https://stephaniecherubin.github.io/CodeMusicxCodeArt).
 
