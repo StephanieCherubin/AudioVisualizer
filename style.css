@@ -1,21 +1,31 @@
 body{
-    background-color: black;
-    margin: 80px;
+    background-color: red;
+    margin: 60px;
     font-family: fantasy;
     /* background: linear-gradient(0deg, rgba(34,44,195,1) 0%, rgba(253,45,45,1) 100%); */
 }
 #canvas {
-    border: 1px solid white;
+    padding: 10px;
+    /* border: 1px solid white; */
     margin: auto;;
     display: block;
+    background-color: #000;
 }
 
-#button-play{
+button{
     margin: auto;
-    margin-top: 50px;
-    display: block;
+    margin-top: 30px;
+    display: inline-block;
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
+    border: 1px solid #000;
     background-color: #000;
+}
+
+.wrapper {
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    left: 46%;
 }
