@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    margin: 80px;
+    font-family: fantasy;
+    /* background: linear-gradient(0deg, rgba(34,44,195,1) 0%, rgba(253,45,45,1) 100%); */
+}
+#canvas {
+    border: 1px solid white;
+    margin: auto;;
+    display: block;
+}
+
+#button-play{
+    margin: auto;
+    margin-top: 50px;
+    display: block;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-color: #000;
+}
