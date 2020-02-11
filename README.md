@@ -10,7 +10,7 @@ For the live version, go to [https://stephaniecherubin.github.io/CodeMusicxCodeA
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Resources
-My resources for this project is one tutorial here: [Audio Visualizer](https://www.kkhaydarov.com/audio-visualizer/)
-and here:
+My resources for this project is one tutorial here:   [Audio Visualizer](https://www.kkhaydarov.com/audio-visualizer/)  
+and here:  
 
 [Computer Art — Visualize your music in JavaScript with your browser — part 2](https://medium.com/@duraraxbaccano/computer-art-visualize-your-music-in-javascript-with-your-browser-part-2-fa1a3b73fdc6)
