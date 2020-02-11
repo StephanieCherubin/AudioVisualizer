@@ -18,8 +18,10 @@ function startAudio() {
     audio.src = 'sounds/bird-whistling-a.wav'
 
     audio.play()
+    
     render()
 }
+
 
 // ----------------------
 
@@ -36,7 +38,7 @@ const ctx = canvas.getContext('2d')
 
 const centerX = 600 / 2
 const centerY = 600 / 2
-const radius = 300 / 30
+const radius = 300 / 30 // size of center circle
 
 // -------------------
 
