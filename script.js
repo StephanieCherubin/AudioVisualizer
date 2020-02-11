@@ -38,7 +38,7 @@ const ctx = canvas.getContext('2d')
 
 const centerX = 600 / 2
 const centerY = 600 / 2
-const radius = 300 / 30 // size of center circle
+const radius = 0 // size of center circle
 
 // -------------------
 
